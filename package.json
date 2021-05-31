@@ -1,0 +1,21 @@
+{
+  "name": "sormasmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Augustus Otu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.5.0",
+    "pg": "^8.5.1",
+    "to-csv": "^0.1.1"
+  }
+}
